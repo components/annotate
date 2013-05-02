@@ -4,11 +4,10 @@
     "description": "Annotate.js jQuery UI Widget",
     "license": "MIT",
     "dependencies": {
-        "jquery-ui": "~1.9.0",
-        "backbone": "~1.0.0"
+        "components/jqueryui": "~1.9.0",
+        "components/backbone": "~1.0.0"
     },
     "scripts": [
         "annotate.js"
-    ],
-    "main": "annotate.js"
+    ]
 }
